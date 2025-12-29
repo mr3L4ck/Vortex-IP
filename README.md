@@ -51,7 +51,8 @@ Vortex-IP is a professional CLI tool developed for Linux to automate the Tor net
 pkg update && pkg upgrade
 pkg install tor python git -y
 pip install stem requests[socks] colorama
-git clone [https://github.com/mr3L4ck/Vortex-IP](https://github.com/mr3L4ck/Vortex-IP)
+git clone https://github.com/mr3L4ck/Vortex-IP
 cd Vortex-IP
+tor -f torrc
 python3 vortex.py
 
