@@ -1,4 +1,4 @@
-![Vortex Banner](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=VORTEX-IP&fontSize=90)
+![Vortex Banner](https://i.postimg.cc/ryCmX7wF/Screenshot-20251230-041635-Termux.jpg)
 
 <h1 align="center">VORTEX-IP ROTATOR</h1>
 
